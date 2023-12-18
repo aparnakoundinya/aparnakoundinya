@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparnakoundinya
 - 👀 I’m interested in exploring places
-- 🌱 I’m currently project management with git
+- 🌱 I’m currently learning project management with git
 - 📫 You can reach me on aparnakoundinya24@gmail.com
 
 <!---
